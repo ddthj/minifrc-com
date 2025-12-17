@@ -1,17 +1,12 @@
-# Welcome to MkDocs
+# Welcome to the **MiniFRC Wiki**
+<figure markdown>
+![MiniFRC](assets/logo/miniFRC_button_rwb.png){width=400}
+</figure>
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+MiniFRC is a robotics competition where teams compete in a quarter-scale version of the FIRST Robotics Competition. It is hosted regularly by the *TerrorBytes*, FRC team 4561.
 
-## Commands
+This site is an unofficial collection of knowledge to help MiniFRC teams create their robots! Consider contributing on [GitHub.](https://github.com/ddthj/minifrc-com)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+For the official MiniFRC webpage go [here.](https://www.terrorbytes.org/whatisminifrc)
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+For historical MiniFRC results go [here.](https://borc.io)
