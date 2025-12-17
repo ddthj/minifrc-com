@@ -1,0 +1,4 @@
+site_name: MiniFRC Wiki
+site_url: https://minifrc.com
+theme:
+  name: material
