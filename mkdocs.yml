@@ -21,5 +21,6 @@ theme:
     - content.action.edit
     
 markdown_extensions:
+  - admonition
   - attr_list
   - md_in_html
